@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>A9CE8E373FB4815E76BCEB6231526E5B</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Кукла Лолиты</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<firstpublished>2008-07-06</firstpublished>
+			<genre>Триллер</genre>
+			<group>URQ</group>
+			<description>Я подошёл к своему дому. Моё сердце колотилось от предвкушения встречи с ней. Сегодня был её день рождения.<br/>Изначально опубликовано Юрием Павленко под псевдонимом Элоиза Ремлап.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#doll_of_lolita</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-10-03</originated>
+		</colophon>
+	</story>
+</ifindex>
