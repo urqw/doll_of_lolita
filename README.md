@@ -4,7 +4,7 @@ Text-based game "The Doll of Lolita" (Russian: "Кукла Лолиты") by Yur
 
 The game is in Russian, developed for URQ_DOS, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#doll_of_lolita).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=doll_of_lolita).
 
 The game was first published on July 6, 2008.
 
